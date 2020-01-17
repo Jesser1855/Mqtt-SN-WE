@@ -21,7 +21,7 @@
 #define MQTTGWPACKET_H_
 
 #include "Network.h"
-
+#include <openssl/ssl.h>
 namespace MQTTSNGW
 {
 
